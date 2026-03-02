@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 
+I'm a new github user part of an indie studio known as **Three Cheese Tundra** or for short **TCT**
+I am just begining to learn code and have only been introduced to `C`
+and the bare minimum of that
+You can reach me at clarkeoliver583@gmail.com
+
+Pronouns: He/Him
+Repositories I'm involved in:
+
 
 <!--
 **clarkeoliver583-wq/clarkeoliver583-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
